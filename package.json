@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "upper-case": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tutorials",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "keywords": [
+    "fun",
+    "ninjas"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
